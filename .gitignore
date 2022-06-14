@@ -3,3 +3,6 @@ data/crop_img/*
 data/frames/*
 data/camera.mp4
 dataset_splited/*
+
+!data/crop_img/.gitkeep
+!data/frames/.gitkeep
