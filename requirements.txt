@@ -1,0 +1,7 @@
+opencv
+pandas
+pillow
+splitfolders
+keras
+tensorflow
+scipy
