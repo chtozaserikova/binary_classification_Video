@@ -1,5 +1,5 @@
-# dataset images
-data\crop_img\*
-data\dataset\*
-data\frames\*
-data\camera.mp4
+# dataset images, that creating in code
+data/crop_img/*
+data/frames/*
+data/camera.mp4
+dataset_splited/*
