@@ -1,7 +1,12 @@
-opencv
+torch
+torchvision
+opencv-python 
 pandas
+matplotlib
 pillow
-splitfolders
+split-folders
 keras
 tensorflow
 scipy
+sklearn
+tqdm

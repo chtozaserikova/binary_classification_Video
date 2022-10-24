@@ -1,3 +1,5 @@
+venv/
+
 # dataset images, that creating in code
 data/crop_img/*
 data/frames/*
